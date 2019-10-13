@@ -1,2 +1,4 @@
 # NLP_Practice
-My playing in NLP
+- Name Entity Recognition(NER)
+- Quora Question Pair
+- Text Classification
